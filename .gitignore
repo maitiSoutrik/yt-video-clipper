@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+venv/
+.env
+
+# Project-specific
+downloaded_videos/
+generated_clips/
+logs/
+*.log
+.DS_Store
