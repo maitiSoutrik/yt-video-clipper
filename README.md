@@ -95,6 +95,10 @@ The script generates the following outputs in the project directory:
 * `generated_clips/segments.json`: A JSON file containing the structured data for all generated segments.
 * `youtube_download.log`: Log file with details about the script's execution.
 
+## Architecture
+
+![YouTube AI Clipper Architecture](./yt-ai-clipper-architecture.png)
+
 ## How It Works
 
 1. **Video Download:** Uses `yt-dlp` to download the video specified by the input URL.
